@@ -22,3 +22,21 @@ Here are some ideas to get you started:
 <br><img title="python programming language" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="python logo" width="auto" height="60px">
 <br>
 --------
+--------
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+--------
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://catalins.tech)
+
+--------
