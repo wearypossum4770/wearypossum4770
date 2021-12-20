@@ -40,3 +40,11 @@ Here are some ideas to get you started:
 ▶ 
 
 --------
+--------
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wearypossum4770&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wearypossum4770&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+If you loo
