@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ 
 
 --------
