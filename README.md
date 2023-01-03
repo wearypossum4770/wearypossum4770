@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 --------
 <br>
 🧰 Toolbox
-<br>
+<br><br>
 <img src="./logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <br><img src="./css-3.svg" alt="CSS Logo" width="50" height="50"/>
 <br><img title="python programming language" src="./python-5.svg" alt="python logo" width="auto" height="60px">
 <br>
+<img alt="Rust Language Logo" src="rust.svg" width="auto" height="60px"><br>
 --------
 --------
 
