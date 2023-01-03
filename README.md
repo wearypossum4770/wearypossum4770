@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <br>
 🧰 Toolbox
 <br><br>
+<img src="./vue-9.svg" alt="VueJS logo" height="60px" weight="auto"><br>
+
+<img src="./html-1.svg" alt="HTML Logo" height="60px" width="auto"><br>
 <img src="./logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <br><img src="./css-3.svg" alt="CSS Logo" width="50" height="50"/>
 <br><img title="python programming language" src="./python-5.svg" alt="python logo" width="auto" height="60px">
 <br>
