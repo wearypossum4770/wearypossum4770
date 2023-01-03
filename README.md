@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <br>
 🧰 Toolbox
 <br>
-<img src="./logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-<br><img title="python programming language" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="python logo" width="auto" height="60px">
+<img src="./logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <br><img src="./css-3.svg" alt="CSS Logo" width="50" height="50"/>
+<br><img title="python programming language" src="./python-5.svg" alt="python logo" width="auto" height="60px">
 <br>
 --------
 --------
