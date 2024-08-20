@@ -16,21 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ---
+<!-- ## 🏆 Achievements -->
 
-<br>
-🧰 Toolbox
-<br><br><img src="./vue-9.svg" alt="VueJS logo" height="60px" weight="auto">
-<br><br><img src="./html-1.svg" alt="HTML Logo" height="60px" width="auto">
-<br><br><img src="./logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <br><img src="./css-3.svg" alt="CSS Logo" width="50" height="50"/>
-<br><br><img title="python programming language" src="./python-5.svg" alt="python logo" width="auto" height="60px">
-<br><br><img alt="Rust Language Logo" src="rust.svg" width="auto" height="60px">
-<br><br>
 
+## Tech Stack
+
+🧰 Toolbox of things.
+
+[![My Skills](https://skillicons.dev/icons?perline=8&i=git,github,githubactions,gitlab,bitbucket,docker,jenkins,heroku,html,css,md,js,ts,nodejs,npm,bun,deno,py,rust,express,flask,django,actix,rocket,react,remix,nextjs,pinia,rollupjs,vite,vitest,vue,webpack,yarn,zig,sqlite,postgres,redis,rabbitmq,nginx,prisma,sequelize,latex,devto,svg,debian,linux,replit)](https://skillicons.dev)
 ---
 
 ---
 
-📺 Latest YouTube Videos
+<!-- 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
@@ -42,16 +40,15 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶
+<!-- ▶ -->
 
 ---
 
 ---
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wearypossum4770&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wearypossum4770&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wearypossum4770&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
