@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🧰 Toolbox of things.
 
-[![My Skills](https://skillicons.dev/icons?perline=8&i=git,github,githubactions,gitlab,bitbucket,docker,jenkins,heroku,html,css,md,js,ts,nodejs,npm,bun,deno,py,rust,express,flask,django,actix,rocket,react,remix,nextjs,pinia,rollupjs,vite,vitest,vue,webpack,yarn,zig,sqlite,postgres,redis,rabbitmq,nginx,prisma,sequelize,latex,devto,svg,debian,linux,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=8&i=git,github,githubactions,gitlab,bitbucket,docker,jenkins,heroku,html,css,md,js,ts,nodejs,npm,bun,deno,py,rust,express,flask,django,actix,rocket,react,remix,nextjs,pinia,rollupjs,vite,vitest,vue,webpack,yarn,zig,sqlite,postgres,redis,nginx,prisma,sequelize,latex,devto,svg,debian,linux,replit)](https://skillicons.dev)
 ---
 
 ---
